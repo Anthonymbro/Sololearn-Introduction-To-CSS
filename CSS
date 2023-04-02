@@ -1,0 +1,28 @@
+h1 {
+    font-size: 28px;
+}
+
+#position {
+    font-size: 18px;
+    font-style: times new roman;
+    color: purple;
+}
+
+.summary {
+    font-size: 16px;
+    font-family: times new roman;
+    color: purple;
+}
+
+section, footer {
+    padding:2px 10px;
+    
+}
+
+ul {
+    margin:0px;
+}
+  
+  
+ 
+     
